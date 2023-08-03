@@ -24,3 +24,7 @@ git remote add "nome dado para o repositório git" "link do repositório"
 --Enviando arquivo para o github
 git push -U "nome dado ao repositório" "nome da branch principal"
 
+
+*Após realizar alguma alteração nos arquivos
+--Mandando todos os arquivos para a área de state
+git add .
