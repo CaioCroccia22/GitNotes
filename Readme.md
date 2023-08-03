@@ -58,3 +58,5 @@ git merge nome da branch que quer juntar
 1- Entrar no projeto clonado -> cd nome do projeto 
 2- git pull
 
+*Após ter realizado o fork de algum projeto de alguém e ter realizado alguma alterção é possível fazer uma pull request
+*Dai se aceitar o pull request -> Clicar em Merge pull request
