@@ -41,3 +41,20 @@ git checkout -b "nome da branch"
 
 --Para voltar para a branch principal
 git checkout main
+
+--Como juntar as duas branchs
+git merge nome da branch que quer juntar
+
+
+--Clonando repositório 
+1- Copiar link do repositório
+2- Criar nova pasta local
+3- Botão direito gitbash here
+4- No terminal -> git clone link do repositório
+
+*Se após o clone tiver sido feito alguma alteração no repositório 
+
+--Atualizar o projeto clonado
+1- Entrar no projeto clonado -> cd nome do projeto 
+2- git pull
+
